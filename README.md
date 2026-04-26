@@ -1,1 +1,0 @@
-# DS_Course1_Week1_Module2_SQLQueries2
